@@ -17,11 +17,6 @@
 pyinstaller main.py --onefile --noconsole --icon=icon.ico --clean --strip --name="Prihs_AI_Unlocker_Windows" --noupx --clean --version-file=version.txt --add-data "icon.ico;." --add-data "app_info.json;." --add-data "icons;icons" --add-data "app;app"
 ```
 
-**Linux:**
-```
-pyinstaller main.py --onefile --noconsole --icon=icon.ico --clean --strip --name="Prihs_AI_Unlocker_Linux" --add-data "icon.ico:." --add-data "app_info.json:." --add-data "icons:icons" --add-data "app:app"
-```
-
 ---
 
 ## 📜 Лицензия
