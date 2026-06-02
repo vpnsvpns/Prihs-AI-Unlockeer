@@ -1,6 +1,6 @@
 <h1 align="center">Prihs AI Unlocker</h1>
 <p align="center">
-  Форк <b>Goida AI Unlocker</b> — мини-утилита для Windows и Linux, позволяющая <b>в один клик разблокировать популярные сервисы</b> путём обновления файла <code>hosts</code>. Использует hosts-файлы от <b>GeoHide DNS</b>.
+  Форк <b>Goida AI Unlocker</b> — мини-утилита для Windows, позволяющая <b>в один клик разблокировать популярные сервисы</b> путём обновления файла <code>hosts</code>. Использует hosts-файлы от <b>GeoHide DNS</b>.
 </p>
 
 ---
